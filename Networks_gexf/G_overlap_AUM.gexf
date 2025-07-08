@@ -1,0 +1,593 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-07-08">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund Direct Growth" label="Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund Direct Growth" />
+      <node id="HDFC NIFTY50 Equal Weight Index Fund Direct   Growth" label="HDFC NIFTY50 Equal Weight Index Fund Direct   Growth" />
+      <node id="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" label="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" />
+      <node id="Axis Nifty 100 Index Fund Direct Growth" label="Axis Nifty 100 Index Fund Direct Growth" />
+      <node id="Bandhan Nifty 100 Index Fund Direct Growth" label="Bandhan Nifty 100 Index Fund Direct Growth" />
+      <node id="Bandhan Nifty 50 Index Fund Direct Plan Growth" label="Bandhan Nifty 50 Index Fund Direct Plan Growth" />
+      <node id="HDFC BSE Sensex Index Fund Direct Growth" label="HDFC BSE Sensex Index Fund Direct Growth" />
+      <node id="HDFC Index Fund   BSE Sensex Plan Direct Growth" label="HDFC Index Fund   BSE Sensex Plan Direct Growth" />
+      <node id="HDFC NIFTY 100 Index Fund Direct Growth" label="HDFC NIFTY 100 Index Fund Direct Growth" />
+      <node id="HDFC NIFTY 50 Index Direct  Growth" label="HDFC NIFTY 50 Index Direct  Growth" />
+      <node id="HDFC NIFTY 50 Index Fund Direct  Growth" label="HDFC NIFTY 50 Index Fund Direct  Growth" />
+      <node id="LIC MF BSE Sensex Index Fund Direct  Growth" label="LIC MF BSE Sensex Index Fund Direct  Growth" />
+      <node id="LIC MF Nifty 50 Index Fund Direct Growth" label="LIC MF Nifty 50 Index Fund Direct Growth" />
+      <node id="Mirae Asset Large Cap Fund Direct  Growth" label="Mirae Asset Large Cap Fund Direct  Growth" />
+      <node id="Motilal Oswal Nifty 50 Index Fund Direct   Growth" label="Motilal Oswal Nifty 50 Index Fund Direct   Growth" />
+      <node id="Nippon India Index Fund Nifty 50 Plan Direct  Growth" label="Nippon India Index Fund Nifty 50 Plan Direct  Growth" />
+      <node id="Aditya Birla Sun Life Nifty Midcap 150 Index Fund Direct Growth" label="Aditya Birla Sun Life Nifty Midcap 150 Index Fund Direct Growth" />
+      <node id="Motilal Oswal Nifty Midcap 150 Index Fund Direct   Growth" label="Motilal Oswal Nifty Midcap 150 Index Fund Direct   Growth" />
+      <node id="Nippon India Nifty Midcap 150 Index Fund Direct   Growth" label="Nippon India Nifty Midcap 150 Index Fund Direct   Growth" />
+      <node id="Aditya Birla Sun Life Nifty Next 50 Index Fund Direct Growth" label="Aditya Birla Sun Life Nifty Next 50 Index Fund Direct Growth" />
+      <node id="Axis Nifty Next 50 Index Fund Direct Growth" label="Axis Nifty Next 50 Index Fund Direct Growth" />
+      <node id="HDFC NIFTY Next 50 Index Fund Direct   Growth" label="HDFC NIFTY Next 50 Index Fund Direct   Growth" />
+      <node id="LIC MF Nifty Next 50 Index Fund Direct Growth" label="LIC MF Nifty Next 50 Index Fund Direct Growth" />
+      <node id="Motilal Oswal Nifty Next 50 Index Fund Direct   Growth" label="Motilal Oswal Nifty Next 50 Index Fund Direct   Growth" />
+      <node id="SBI Nifty Next 50 Index Fund Direct   Growth" label="SBI Nifty Next 50 Index Fund Direct   Growth" />
+      <node id="Aditya Birla Sun Life Nifty Smallcap 50 Index Fund Direct Growth" label="Aditya Birla Sun Life Nifty Smallcap 50 Index Fund Direct Growth" />
+      <node id="Axis Nifty Smallcap 50 Index Fund Direct Growth" label="Axis Nifty Smallcap 50 Index Fund Direct Growth" />
+      <node id="Bank of India Manufacturing &amp; Infrastructure Direct Growth" label="Bank of India Manufacturing &amp; Infrastructure Direct Growth" />
+      <node id="Bank of India Manufacturing &amp; Infrastructure Fund Direct Growth" label="Bank of India Manufacturing &amp; Infrastructure Fund Direct Growth" />
+      <node id="DSP ELSS Tax Saver Direct Plan Growth" label="DSP ELSS Tax Saver Direct Plan Growth" />
+      <node id="DSP ELSS Tax Saver Fund Direct Plan Growth" label="DSP ELSS Tax Saver Fund Direct Plan Growth" />
+      <node id="DSP Equity Opportunities Direct Plan Growth" label="DSP Equity Opportunities Direct Plan Growth" />
+      <node id="DSP Equity Opportunities Fund Direct Plan Growth" label="DSP Equity Opportunities Fund Direct Plan Growth" />
+      <node id="DSP Large &amp; Mid Cap Fund Direct Plan Growth" label="DSP Large &amp; Mid Cap Fund Direct Plan Growth" />
+      <node id="DSP Focus Direct Plan Growth" label="DSP Focus Direct Plan Growth" />
+      <node id="DSP Focused Direct Plan Growth" label="DSP Focused Direct Plan Growth" />
+      <node id="DSP Large Cap Fund Direct Growth" label="DSP Large Cap Fund Direct Growth" />
+      <node id="DSP Top 100 Equity Direct Plan Growth" label="DSP Top 100 Equity Direct Plan Growth" />
+      <node id="Motilal Oswal Nifty Smallcap 250 Index Fund Direct   Growth" label="Motilal Oswal Nifty Smallcap 250 Index Fund Direct   Growth" />
+      <node id="Nippon India Nifty Smallcap 250 Index Fund Direct   Growth" label="Nippon India Nifty Smallcap 250 Index Fund Direct   Growth" />
+      <node id="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" label="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" />
+      <node id="Axis Nifty Midcap 50 Index Fund Direct Growth" label="Axis Nifty Midcap 50 Index Fund Direct Growth" />
+      <node id="Kotak Bluechip Fund Direct Growth" label="Kotak Bluechip Fund Direct Growth" />
+      <node id="Mirae Asset ELSS Tax Saver Fund Direct Growth" label="Mirae Asset ELSS Tax Saver Fund Direct Growth" />
+      <node id="Bandhan Equity Savings Fund Direct Growth" label="Bandhan Equity Savings Fund Direct Growth" />
+      <node id="Mahindra Manulife Large Cap Fund Direct   Growth" label="Mahindra Manulife Large Cap Fund Direct   Growth" />
+      <node id="UTI Large Cap Fund Direct Growth" label="UTI Large Cap Fund Direct Growth" />
+      <node id="UTI Value Fund Direct Growth" label="UTI Value Fund Direct Growth" />
+      <node id="HSBC Large Cap Fund Direct Growth" label="HSBC Large Cap Fund Direct Growth" />
+      <node id="Kotak India EQ Contra Fund Direct Growth" label="Kotak India EQ Contra Fund Direct Growth" />
+      <node id="ITI Balanced Advantage Fund Direct   Growth" label="ITI Balanced Advantage Fund Direct   Growth" />
+      <node id="Nippon India Quant Fund Retail Direct Growth" label="Nippon India Quant Fund Retail Direct Growth" />
+      <node id="Kotak ELSS Tax Saver Fund Direct Growth" label="Kotak ELSS Tax Saver Fund Direct Growth" />
+      <node id="UTI ELSS Tax Saver Fund Direct Growth" label="UTI ELSS Tax Saver Fund Direct Growth" />
+      <node id="Axis Multi Asset Allocation Direct Plan  Growth" label="Axis Multi Asset Allocation Direct Plan  Growth" />
+      <node id="Tata Large Cap Direct Plan Growth" label="Tata Large Cap Direct Plan Growth" />
+      <node id="HSBC ELSS Tax Saver Fund Direct Growth" label="HSBC ELSS Tax Saver Fund Direct Growth" />
+      <node id="Bank of India Balanced Advantage Fund Direct Growth" label="Bank of India Balanced Advantage Fund Direct Growth" />
+      <node id="Bank of India ELSS Tax Saver Direct Growth" label="Bank of India ELSS Tax Saver Direct Growth" />
+      <node id="Bank of India Flexi Cap Fund Direct Growth" label="Bank of India Flexi Cap Fund Direct Growth" />
+      <node id="UTI Dividend Yield Fund Direct Growth" label="UTI Dividend Yield Fund Direct Growth" />
+      <node id="Mirae Asset Banking and Financial Services Fund Direct   Growth" label="Mirae Asset Banking and Financial Services Fund Direct   Growth" />
+      <node id="SBI Long Term Equity Fund Direct Plan Growth" label="SBI Long Term Equity Fund Direct Plan Growth" />
+      <node id="Taurus Flexi Cap Fund Direct   Growth" label="Taurus Flexi Cap Fund Direct   Growth" />
+      <node id="Groww ELSS Tax Saver Fund Direct   Growth" label="Groww ELSS Tax Saver Fund Direct   Growth" />
+      <node id="Groww Large Cap Fund Direct Growth" label="Groww Large Cap Fund Direct Growth" />
+      <node id="HDFC Equity Savings Direct Plan Growth" label="HDFC Equity Savings Direct Plan Growth" />
+      <node id="HSBC Flexi Cap Fund Direct Growth" label="HSBC Flexi Cap Fund Direct Growth" />
+      <node id="Kotak Focused Equity Fund Direct   Growth" label="Kotak Focused Equity Fund Direct   Growth" />
+      <node id="Taurus Large Cap Fund Direct Growth" label="Taurus Large Cap Fund Direct Growth" />
+      <node id="Kotak Debt Hybrid Fund Direct  Growth" label="Kotak Debt Hybrid Fund Direct  Growth" />
+      <node id="Kotak ESG Exclusionary Strategy Fund Direct   Growth" label="Kotak ESG Exclusionary Strategy Fund Direct   Growth" />
+      <node id="Kotak Equity Opportunities Fund Direct Growth" label="Kotak Equity Opportunities Fund Direct Growth" />
+      <node id="Kotak Flexicap Fund Direct Growth" label="Kotak Flexicap Fund Direct Growth" />
+      <node id="360 ONE Focused Equity Fund Direct Growth" label="360 ONE Focused Equity Fund Direct Growth" />
+      <node id="HSBC Balanced Advantage Fund Direct Growth" label="HSBC Balanced Advantage Fund Direct Growth" />
+      <node id="Navi Flexi Cap Fund Direct   Growth" label="Navi Flexi Cap Fund Direct   Growth" />
+      <node id="Quantum ELSS Tax Saver Fund Direct Growth" label="Quantum ELSS Tax Saver Fund Direct Growth" />
+      <node id="SBI Equity Savings Fund Direct Growth" label="SBI Equity Savings Fund Direct Growth" />
+      <node id="Tata Business Cycle Fund Direct   Growth" label="Tata Business Cycle Fund Direct   Growth" />
+      <node id="UTI Infrastructure Fund Direct Growth" label="UTI Infrastructure Fund Direct Growth" />
+    </nodes>
+    <edges>
+      <edge source="Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund Direct Growth" target="HDFC NIFTY50 Equal Weight Index Fund Direct   Growth" id="0" weight="22.07" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Axis Nifty 100 Index Fund Direct Growth" id="1" weight="52.114999999999995" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Bandhan Nifty 100 Index Fund Direct Growth" id="2" weight="52.09" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Bandhan Nifty 50 Index Fund Direct Plan Growth" id="3" weight="56.925" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="HDFC BSE Sensex Index Fund Direct Growth" id="4" weight="62.045" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="HDFC Index Fund   BSE Sensex Plan Direct Growth" id="5" weight="62.045" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="HDFC NIFTY 100 Index Fund Direct Growth" id="6" weight="52.08" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="HDFC NIFTY 50 Index Direct  Growth" id="7" weight="56.94" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="HDFC NIFTY 50 Index Fund Direct  Growth" id="8" weight="56.94" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="LIC MF BSE Sensex Index Fund Direct  Growth" id="9" weight="62.004999999999995" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="LIC MF Nifty 50 Index Fund Direct Growth" id="10" weight="56.775" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Mirae Asset Large Cap Fund Direct  Growth" id="11" weight="53.004999999999995" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="12" weight="56.9" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="13" weight="56.925" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="14" weight="38.135" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Bandhan Equity Savings Fund Direct Growth" id="15" weight="39.94" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Kotak Bluechip Fund Direct Growth" id="16" weight="44.864999999999995" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="17" weight="48.765" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="18" weight="42.120000000000005" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="UTI Large Cap Fund Direct Growth" id="19" weight="46.614999999999995" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="20" weight="35.39" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="21" weight="35.565" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="22" weight="35.565" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="HSBC Large Cap Fund Direct Growth" id="23" weight="44.065" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="24" weight="37.025000000000006" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Tata Large Cap Direct Plan Growth" id="25" weight="41.195" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="UTI Value Fund Direct Growth" id="26" weight="41.62" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Bank of India Balanced Advantage Fund Direct Growth" id="27" weight="33.379999999999995" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="HDFC Equity Savings Direct Plan Growth" id="28" weight="35.96" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="HSBC Balanced Advantage Fund Direct Growth" id="29" weight="35.26" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="HSBC ELSS Tax Saver Fund Direct Growth" id="30" weight="32.59" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Kotak ELSS Tax Saver Fund Direct Growth" id="31" weight="34.095" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Kotak ESG Exclusionary Strategy Fund Direct   Growth" id="32" weight="36.605000000000004" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Kotak India EQ Contra Fund Direct Growth" id="33" weight="34.925" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Navi Flexi Cap Fund Direct   Growth" id="34" weight="28.29" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Nippon India Quant Fund Retail Direct Growth" id="35" weight="39.155" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Quantum ELSS Tax Saver Fund Direct Growth" id="36" weight="35.66" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="SBI Equity Savings Fund Direct Growth" id="37" weight="33.935" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="Tata Business Cycle Fund Direct   Growth" id="38" weight="30.695" />
+      <edge source="Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth" target="UTI ELSS Tax Saver Fund Direct Growth" id="39" weight="39.475" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Bandhan Nifty 100 Index Fund Direct Growth" id="40" weight="47.295" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Bandhan Nifty 50 Index Fund Direct Plan Growth" id="41" weight="52.129999999999995" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="HDFC BSE Sensex Index Fund Direct Growth" id="42" weight="57.25" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="HDFC Index Fund   BSE Sensex Plan Direct Growth" id="43" weight="57.25" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="HDFC NIFTY 100 Index Fund Direct Growth" id="44" weight="47.285" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="HDFC NIFTY 50 Index Direct  Growth" id="45" weight="52.144999999999996" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="HDFC NIFTY 50 Index Fund Direct  Growth" id="46" weight="52.144999999999996" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="LIC MF BSE Sensex Index Fund Direct  Growth" id="47" weight="57.209999999999994" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="LIC MF Nifty 50 Index Fund Direct Growth" id="48" weight="51.980000000000004" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Mirae Asset Large Cap Fund Direct  Growth" id="49" weight="48.21" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="50" weight="52.105000000000004" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="51" weight="52.129999999999995" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="52" weight="33.589999999999996" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Bandhan Equity Savings Fund Direct Growth" id="53" weight="35.83" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Kotak Bluechip Fund Direct Growth" id="54" weight="40.59" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="55" weight="44.525000000000006" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="56" weight="37.96" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="UTI Large Cap Fund Direct Growth" id="57" weight="42.39" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="58" weight="31.424999999999997" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="59" weight="32.07" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="60" weight="32.07" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="HSBC Large Cap Fund Direct Growth" id="61" weight="40.144999999999996" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="62" weight="33.05" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Tata Large Cap Direct Plan Growth" id="63" weight="37.36" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="UTI Value Fund Direct Growth" id="64" weight="37.7" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Bank of India Balanced Advantage Fund Direct Growth" id="65" weight="29.775" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="HDFC Equity Savings Direct Plan Growth" id="66" weight="32.245" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="HSBC Balanced Advantage Fund Direct Growth" id="67" weight="31.725" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="HSBC ELSS Tax Saver Fund Direct Growth" id="68" weight="28.875" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Kotak ELSS Tax Saver Fund Direct Growth" id="69" weight="30.85" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Kotak ESG Exclusionary Strategy Fund Direct   Growth" id="70" weight="33.36" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Kotak India EQ Contra Fund Direct Growth" id="71" weight="31.255" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Navi Flexi Cap Fund Direct   Growth" id="72" weight="25.075000000000003" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Nippon India Quant Fund Retail Direct Growth" id="73" weight="35.44" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Quantum ELSS Tax Saver Fund Direct Growth" id="74" weight="32.45" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="SBI Equity Savings Fund Direct Growth" id="75" weight="30.515" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="Tata Business Cycle Fund Direct   Growth" id="76" weight="27.659999999999997" />
+      <edge source="Axis Nifty 100 Index Fund Direct Growth" target="UTI ELSS Tax Saver Fund Direct Growth" id="77" weight="35.805" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Bandhan Nifty 50 Index Fund Direct Plan Growth" id="78" weight="52.105000000000004" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="HDFC BSE Sensex Index Fund Direct Growth" id="79" weight="57.22500000000001" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="HDFC Index Fund   BSE Sensex Plan Direct Growth" id="80" weight="57.22500000000001" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="HDFC NIFTY 100 Index Fund Direct Growth" id="81" weight="47.260000000000005" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="HDFC NIFTY 50 Index Direct  Growth" id="82" weight="52.120000000000005" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="HDFC NIFTY 50 Index Fund Direct  Growth" id="83" weight="52.120000000000005" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="LIC MF BSE Sensex Index Fund Direct  Growth" id="84" weight="57.185" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="LIC MF Nifty 50 Index Fund Direct Growth" id="85" weight="51.955" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Mirae Asset Large Cap Fund Direct  Growth" id="86" weight="48.185" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="87" weight="52.08" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="88" weight="52.105000000000004" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="89" weight="33.565" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Bandhan Equity Savings Fund Direct Growth" id="90" weight="35.805" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Kotak Bluechip Fund Direct Growth" id="91" weight="40.565" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="92" weight="44.5" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="93" weight="37.935" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="UTI Large Cap Fund Direct Growth" id="94" weight="42.364999999999995" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="95" weight="31.405" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="96" weight="32.05" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="97" weight="32.05" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="HSBC Large Cap Fund Direct Growth" id="98" weight="40.12" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="99" weight="33.025000000000006" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Tata Large Cap Direct Plan Growth" id="100" weight="37.335" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="UTI Value Fund Direct Growth" id="101" weight="37.675" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Bank of India Balanced Advantage Fund Direct Growth" id="102" weight="29.755" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="HDFC Equity Savings Direct Plan Growth" id="103" weight="32.224999999999994" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="HSBC Balanced Advantage Fund Direct Growth" id="104" weight="31.700000000000003" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="HSBC ELSS Tax Saver Fund Direct Growth" id="105" weight="28.854999999999997" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Kotak ELSS Tax Saver Fund Direct Growth" id="106" weight="30.83" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Kotak ESG Exclusionary Strategy Fund Direct   Growth" id="107" weight="33.339999999999996" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Kotak India EQ Contra Fund Direct Growth" id="108" weight="31.23" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Navi Flexi Cap Fund Direct   Growth" id="109" weight="25.055" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Nippon India Quant Fund Retail Direct Growth" id="110" weight="35.42" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Quantum ELSS Tax Saver Fund Direct Growth" id="111" weight="32.435" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="SBI Equity Savings Fund Direct Growth" id="112" weight="30.490000000000002" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="Tata Business Cycle Fund Direct   Growth" id="113" weight="27.64" />
+      <edge source="Bandhan Nifty 100 Index Fund Direct Growth" target="UTI ELSS Tax Saver Fund Direct Growth" id="114" weight="35.78" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="HDFC BSE Sensex Index Fund Direct Growth" id="115" weight="62.06" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="HDFC Index Fund   BSE Sensex Plan Direct Growth" id="116" weight="62.06" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="HDFC NIFTY 100 Index Fund Direct Growth" id="117" weight="52.095" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="HDFC NIFTY 50 Index Direct  Growth" id="118" weight="56.955" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="HDFC NIFTY 50 Index Fund Direct  Growth" id="119" weight="56.955" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="LIC MF BSE Sensex Index Fund Direct  Growth" id="120" weight="62.019999999999996" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="LIC MF Nifty 50 Index Fund Direct Growth" id="121" weight="56.79" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="Mirae Asset Large Cap Fund Direct  Growth" id="122" weight="53.019999999999996" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="123" weight="56.915" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="124" weight="56.94" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="125" weight="38.15" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="Bandhan Equity Savings Fund Direct Growth" id="126" weight="39.95" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="Kotak Bluechip Fund Direct Growth" id="127" weight="44.879999999999995" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="128" weight="48.78" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="129" weight="42.135000000000005" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="UTI Large Cap Fund Direct Growth" id="130" weight="46.629999999999995" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="131" weight="35.4" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="132" weight="35.575" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="133" weight="35.575" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="HSBC Large Cap Fund Direct Growth" id="134" weight="44.08" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="135" weight="37.04" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="Tata Large Cap Direct Plan Growth" id="136" weight="41.21" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="UTI Value Fund Direct Growth" id="137" weight="41.635" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="Bank of India Balanced Advantage Fund Direct Growth" id="138" weight="33.385" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="HDFC Equity Savings Direct Plan Growth" id="139" weight="35.97" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="HSBC Balanced Advantage Fund Direct Growth" id="140" weight="35.275" />
+      <edge source="Bandhan Nifty 50 Index Fund Direct Plan Growth" target="HSBC ELSS Tax Saver Fund Direct Growth" id="141" weight="32.6" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="HDFC Index Fund   BSE Sensex Plan Direct Growth" id="142" weight="67.18" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="HDFC NIFTY 100 Index Fund Direct Growth" id="143" weight="57.215" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="HDFC NIFTY 50 Index Direct  Growth" id="144" weight="62.075" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="HDFC NIFTY 50 Index Fund Direct  Growth" id="145" weight="62.075" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="LIC MF BSE Sensex Index Fund Direct  Growth" id="146" weight="67.14" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="LIC MF Nifty 50 Index Fund Direct Growth" id="147" weight="61.910000000000004" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="Mirae Asset Large Cap Fund Direct  Growth" id="148" weight="58.14" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="149" weight="62.035000000000004" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="150" weight="62.06" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="151" weight="43.0" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="Bandhan Equity Savings Fund Direct Growth" id="152" weight="44.385000000000005" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="Kotak Bluechip Fund Direct Growth" id="153" weight="49.465" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="154" weight="53.315" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="155" weight="46.57" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="UTI Large Cap Fund Direct Growth" id="156" weight="51.165" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="157" weight="39.665" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="158" weight="39.32" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="159" weight="39.32" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="HSBC Large Cap Fund Direct Growth" id="160" weight="48.3" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="161" weight="41.305" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="Tata Large Cap Direct Plan Growth" id="162" weight="45.335" />
+      <edge source="HDFC BSE Sensex Index Fund Direct Growth" target="UTI Value Fund Direct Growth" id="163" weight="45.855000000000004" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="HDFC NIFTY 100 Index Fund Direct Growth" id="164" weight="57.215" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="HDFC NIFTY 50 Index Direct  Growth" id="165" weight="62.075" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="HDFC NIFTY 50 Index Fund Direct  Growth" id="166" weight="62.075" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="LIC MF BSE Sensex Index Fund Direct  Growth" id="167" weight="67.14" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="LIC MF Nifty 50 Index Fund Direct Growth" id="168" weight="61.910000000000004" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="Mirae Asset Large Cap Fund Direct  Growth" id="169" weight="58.14" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="170" weight="62.035000000000004" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="171" weight="62.06" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="172" weight="43.0" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="Bandhan Equity Savings Fund Direct Growth" id="173" weight="44.385000000000005" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="Kotak Bluechip Fund Direct Growth" id="174" weight="49.465" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="175" weight="53.315" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="176" weight="46.57" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="UTI Large Cap Fund Direct Growth" id="177" weight="51.165" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="178" weight="39.665" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="179" weight="39.32" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="180" weight="39.32" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="HSBC Large Cap Fund Direct Growth" id="181" weight="48.3" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="182" weight="41.305" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="Tata Large Cap Direct Plan Growth" id="183" weight="45.335" />
+      <edge source="HDFC Index Fund   BSE Sensex Plan Direct Growth" target="UTI Value Fund Direct Growth" id="184" weight="45.855000000000004" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="HDFC NIFTY 50 Index Direct  Growth" id="185" weight="52.11" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="HDFC NIFTY 50 Index Fund Direct  Growth" id="186" weight="52.11" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="LIC MF BSE Sensex Index Fund Direct  Growth" id="187" weight="57.175" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="LIC MF Nifty 50 Index Fund Direct Growth" id="188" weight="51.945" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="Mirae Asset Large Cap Fund Direct  Growth" id="189" weight="48.175" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="190" weight="52.07" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="191" weight="52.095" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="192" weight="33.555" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="Bandhan Equity Savings Fund Direct Growth" id="193" weight="35.795" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="Kotak Bluechip Fund Direct Growth" id="194" weight="40.555" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="195" weight="44.49" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="196" weight="37.925" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="UTI Large Cap Fund Direct Growth" id="197" weight="42.355000000000004" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="198" weight="31.394999999999996" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="199" weight="32.045" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="200" weight="32.045" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="HSBC Large Cap Fund Direct Growth" id="201" weight="40.11" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="202" weight="33.015" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="Tata Large Cap Direct Plan Growth" id="203" weight="37.325" />
+      <edge source="HDFC NIFTY 100 Index Fund Direct Growth" target="UTI Value Fund Direct Growth" id="204" weight="37.665" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="HDFC NIFTY 50 Index Fund Direct  Growth" id="205" weight="56.97" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="LIC MF BSE Sensex Index Fund Direct  Growth" id="206" weight="62.035" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="LIC MF Nifty 50 Index Fund Direct Growth" id="207" weight="56.805" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="Mirae Asset Large Cap Fund Direct  Growth" id="208" weight="53.035" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="209" weight="56.93" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="210" weight="56.955" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="211" weight="38.165" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="Bandhan Equity Savings Fund Direct Growth" id="212" weight="39.96" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="Kotak Bluechip Fund Direct Growth" id="213" weight="44.89" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="214" weight="48.795" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="215" weight="42.144999999999996" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="UTI Large Cap Fund Direct Growth" id="216" weight="46.64" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="217" weight="35.41" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="218" weight="35.585" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="219" weight="35.585" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="HSBC Large Cap Fund Direct Growth" id="220" weight="44.09" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="221" weight="37.05" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="Tata Large Cap Direct Plan Growth" id="222" weight="41.215" />
+      <edge source="HDFC NIFTY 50 Index Direct  Growth" target="UTI Value Fund Direct Growth" id="223" weight="41.644999999999996" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="LIC MF BSE Sensex Index Fund Direct  Growth" id="224" weight="62.035" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="LIC MF Nifty 50 Index Fund Direct Growth" id="225" weight="56.805" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="Mirae Asset Large Cap Fund Direct  Growth" id="226" weight="53.035" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="227" weight="56.93" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="228" weight="56.955" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="229" weight="38.165" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="Bandhan Equity Savings Fund Direct Growth" id="230" weight="39.96" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="Kotak Bluechip Fund Direct Growth" id="231" weight="44.89" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="232" weight="48.795" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="233" weight="42.144999999999996" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="UTI Large Cap Fund Direct Growth" id="234" weight="46.64" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="235" weight="35.41" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="236" weight="35.585" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="237" weight="35.585" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="HSBC Large Cap Fund Direct Growth" id="238" weight="44.09" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="239" weight="37.05" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="Tata Large Cap Direct Plan Growth" id="240" weight="41.215" />
+      <edge source="HDFC NIFTY 50 Index Fund Direct  Growth" target="UTI Value Fund Direct Growth" id="241" weight="41.644999999999996" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="LIC MF Nifty 50 Index Fund Direct Growth" id="242" weight="61.87" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="Mirae Asset Large Cap Fund Direct  Growth" id="243" weight="58.099999999999994" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="244" weight="61.995" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="245" weight="62.019999999999996" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="246" weight="42.964999999999996" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="Bandhan Equity Savings Fund Direct Growth" id="247" weight="44.335" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="Kotak Bluechip Fund Direct Growth" id="248" weight="49.425" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="249" weight="53.29" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="250" weight="46.525" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="UTI Large Cap Fund Direct Growth" id="251" weight="51.125" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="252" weight="39.64" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="253" weight="39.3" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="254" weight="39.3" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="HSBC Large Cap Fund Direct Growth" id="255" weight="48.269999999999996" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="256" weight="41.269999999999996" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="Tata Large Cap Direct Plan Growth" id="257" weight="45.29" />
+      <edge source="LIC MF BSE Sensex Index Fund Direct  Growth" target="UTI Value Fund Direct Growth" id="258" weight="45.825" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="Mirae Asset Large Cap Fund Direct  Growth" id="259" weight="52.870000000000005" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="260" weight="56.765" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="261" weight="56.79" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="262" weight="37.995" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="Bandhan Equity Savings Fund Direct Growth" id="263" weight="39.769999999999996" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="Kotak Bluechip Fund Direct Growth" id="264" weight="44.71" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="265" weight="48.63" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="266" weight="42.010000000000005" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="UTI Large Cap Fund Direct Growth" id="267" weight="46.45" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="268" weight="35.245" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="269" weight="35.415" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="270" weight="35.415" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="HSBC Large Cap Fund Direct Growth" id="271" weight="43.905" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="272" weight="36.855000000000004" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="Tata Large Cap Direct Plan Growth" id="273" weight="41.08" />
+      <edge source="LIC MF Nifty 50 Index Fund Direct Growth" target="UTI Value Fund Direct Growth" id="274" weight="41.459999999999994" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="Motilal Oswal Nifty 50 Index Fund Direct   Growth" id="275" weight="52.995000000000005" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="276" weight="53.019999999999996" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="277" weight="34.48" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="Bandhan Equity Savings Fund Direct Growth" id="278" weight="35.435" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="Kotak Bluechip Fund Direct Growth" id="279" weight="40.78" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="280" weight="45.485" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="281" weight="38.67" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="UTI Large Cap Fund Direct Growth" id="282" weight="42.405" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="283" weight="30.894999999999996" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="284" weight="33.35" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="285" weight="33.35" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="HSBC Large Cap Fund Direct Growth" id="286" weight="40.230000000000004" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="287" weight="33.065" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="Tata Large Cap Direct Plan Growth" id="288" weight="37.44" />
+      <edge source="Mirae Asset Large Cap Fund Direct  Growth" target="UTI Value Fund Direct Growth" id="289" weight="37.785" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="Nippon India Index Fund Nifty 50 Plan Direct  Growth" id="290" weight="56.915" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="291" weight="38.125" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="Bandhan Equity Savings Fund Direct Growth" id="292" weight="39.93" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="Kotak Bluechip Fund Direct Growth" id="293" weight="44.855000000000004" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="294" weight="48.755" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="295" weight="42.11" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="UTI Large Cap Fund Direct Growth" id="296" weight="46.605000000000004" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="297" weight="35.38" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="298" weight="35.555" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="299" weight="35.555" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="HSBC Large Cap Fund Direct Growth" id="300" weight="44.055" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="301" weight="37.015" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="Tata Large Cap Direct Plan Growth" id="302" weight="41.185" />
+      <edge source="Motilal Oswal Nifty 50 Index Fund Direct   Growth" target="UTI Value Fund Direct Growth" id="303" weight="41.61" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" id="304" weight="38.15" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="Bandhan Equity Savings Fund Direct Growth" id="305" weight="39.95" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="Kotak Bluechip Fund Direct Growth" id="306" weight="44.879999999999995" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="307" weight="48.78" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="308" weight="42.135000000000005" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="UTI Large Cap Fund Direct Growth" id="309" weight="46.629999999999995" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="310" weight="35.4" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="DSP ELSS Tax Saver Direct Plan Growth" id="311" weight="35.575" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="312" weight="35.575" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="HSBC Large Cap Fund Direct Growth" id="313" weight="44.08" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="314" weight="37.04" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="Tata Large Cap Direct Plan Growth" id="315" weight="41.21" />
+      <edge source="Nippon India Index Fund Nifty 50 Plan Direct  Growth" target="UTI Value Fund Direct Growth" id="316" weight="41.635" />
+      <edge source="Aditya Birla Sun Life Nifty Midcap 150 Index Fund Direct Growth" target="Motilal Oswal Nifty Midcap 150 Index Fund Direct   Growth" id="317" weight="18.59" />
+      <edge source="Aditya Birla Sun Life Nifty Midcap 150 Index Fund Direct Growth" target="Nippon India Nifty Midcap 150 Index Fund Direct   Growth" id="318" weight="18.634999999999998" />
+      <edge source="Aditya Birla Sun Life Nifty Midcap 150 Index Fund Direct Growth" target="Axis Nifty Midcap 50 Index Fund Direct Growth" id="319" weight="24.07" />
+      <edge source="Motilal Oswal Nifty Midcap 150 Index Fund Direct   Growth" target="Nippon India Nifty Midcap 150 Index Fund Direct   Growth" id="320" weight="18.634999999999998" />
+      <edge source="Motilal Oswal Nifty Midcap 150 Index Fund Direct   Growth" target="Axis Nifty Midcap 50 Index Fund Direct Growth" id="321" weight="24.07" />
+      <edge source="Nippon India Nifty Midcap 150 Index Fund Direct   Growth" target="Axis Nifty Midcap 50 Index Fund Direct Growth" id="322" weight="24.11" />
+      <edge source="Aditya Birla Sun Life Nifty Next 50 Index Fund Direct Growth" target="Axis Nifty Next 50 Index Fund Direct Growth" id="323" weight="32.34" />
+      <edge source="Aditya Birla Sun Life Nifty Next 50 Index Fund Direct Growth" target="HDFC NIFTY Next 50 Index Fund Direct   Growth" id="324" weight="32.34" />
+      <edge source="Aditya Birla Sun Life Nifty Next 50 Index Fund Direct Growth" target="LIC MF Nifty Next 50 Index Fund Direct Growth" id="325" weight="32.365" />
+      <edge source="Aditya Birla Sun Life Nifty Next 50 Index Fund Direct Growth" target="Motilal Oswal Nifty Next 50 Index Fund Direct   Growth" id="326" weight="32.370000000000005" />
+      <edge source="Aditya Birla Sun Life Nifty Next 50 Index Fund Direct Growth" target="SBI Nifty Next 50 Index Fund Direct   Growth" id="327" weight="32.36" />
+      <edge source="Axis Nifty Next 50 Index Fund Direct Growth" target="HDFC NIFTY Next 50 Index Fund Direct   Growth" id="328" weight="32.33" />
+      <edge source="Axis Nifty Next 50 Index Fund Direct Growth" target="LIC MF Nifty Next 50 Index Fund Direct Growth" id="329" weight="32.355000000000004" />
+      <edge source="Axis Nifty Next 50 Index Fund Direct Growth" target="Motilal Oswal Nifty Next 50 Index Fund Direct   Growth" id="330" weight="32.36" />
+      <edge source="Axis Nifty Next 50 Index Fund Direct Growth" target="SBI Nifty Next 50 Index Fund Direct   Growth" id="331" weight="32.349999999999994" />
+      <edge source="HDFC NIFTY Next 50 Index Fund Direct   Growth" target="LIC MF Nifty Next 50 Index Fund Direct Growth" id="332" weight="32.355000000000004" />
+      <edge source="HDFC NIFTY Next 50 Index Fund Direct   Growth" target="Motilal Oswal Nifty Next 50 Index Fund Direct   Growth" id="333" weight="32.36" />
+      <edge source="HDFC NIFTY Next 50 Index Fund Direct   Growth" target="SBI Nifty Next 50 Index Fund Direct   Growth" id="334" weight="32.349999999999994" />
+      <edge source="LIC MF Nifty Next 50 Index Fund Direct Growth" target="Motilal Oswal Nifty Next 50 Index Fund Direct   Growth" id="335" weight="32.385000000000005" />
+      <edge source="LIC MF Nifty Next 50 Index Fund Direct Growth" target="SBI Nifty Next 50 Index Fund Direct   Growth" id="336" weight="32.375" />
+      <edge source="Motilal Oswal Nifty Next 50 Index Fund Direct   Growth" target="SBI Nifty Next 50 Index Fund Direct   Growth" id="337" weight="32.379999999999995" />
+      <edge source="Aditya Birla Sun Life Nifty Smallcap 50 Index Fund Direct Growth" target="Axis Nifty Smallcap 50 Index Fund Direct Growth" id="338" weight="32.97" />
+      <edge source="Aditya Birla Sun Life Nifty Smallcap 50 Index Fund Direct Growth" target="Motilal Oswal Nifty Smallcap 250 Index Fund Direct   Growth" id="339" weight="17.049999999999997" />
+      <edge source="Aditya Birla Sun Life Nifty Smallcap 50 Index Fund Direct Growth" target="Nippon India Nifty Smallcap 250 Index Fund Direct   Growth" id="340" weight="17.04" />
+      <edge source="Axis Nifty Smallcap 50 Index Fund Direct Growth" target="Motilal Oswal Nifty Smallcap 250 Index Fund Direct   Growth" id="341" weight="17.07" />
+      <edge source="Axis Nifty Smallcap 50 Index Fund Direct Growth" target="Nippon India Nifty Smallcap 250 Index Fund Direct   Growth" id="342" weight="17.060000000000002" />
+      <edge source="Bank of India Manufacturing &amp; Infrastructure Direct Growth" target="Bank of India Manufacturing &amp; Infrastructure Fund Direct Growth" id="343" weight="40.65" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="DSP ELSS Tax Saver Fund Direct Plan Growth" id="344" weight="38.94" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="Kotak Bluechip Fund Direct Growth" id="345" weight="34.56" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="UTI Value Fund Direct Growth" id="346" weight="36.81" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="347" weight="25.68" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="DSP Equity Opportunities Direct Plan Growth" id="348" weight="28.435" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="DSP Equity Opportunities Fund Direct Plan Growth" id="349" weight="28.435" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="DSP Large &amp; Mid Cap Fund Direct Plan Growth" id="350" weight="28.435" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="DSP Large Cap Fund Direct Growth" id="351" weight="35.47" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="DSP Top 100 Equity Direct Plan Growth" id="352" weight="35.47" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="HSBC Large Cap Fund Direct Growth" id="353" weight="36.705" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="Kotak ELSS Tax Saver Fund Direct Growth" id="354" weight="32.205" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="355" weight="35.11" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="356" weight="30.985" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="Nippon India Quant Fund Retail Direct Growth" id="357" weight="32.46" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="Tata Large Cap Direct Plan Growth" id="358" weight="31.93" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="UTI Dividend Yield Fund Direct Growth" id="359" weight="28.975" />
+      <edge source="DSP ELSS Tax Saver Direct Plan Growth" target="Bandhan Equity Savings Fund Direct Growth" id="360" weight="25.520000000000003" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="Kotak Bluechip Fund Direct Growth" id="361" weight="34.56" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="UTI Value Fund Direct Growth" id="362" weight="36.81" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="363" weight="25.68" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="DSP Equity Opportunities Direct Plan Growth" id="364" weight="28.435" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="DSP Equity Opportunities Fund Direct Plan Growth" id="365" weight="28.435" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="DSP Large &amp; Mid Cap Fund Direct Plan Growth" id="366" weight="28.435" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="DSP Large Cap Fund Direct Growth" id="367" weight="35.47" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="DSP Top 100 Equity Direct Plan Growth" id="368" weight="35.47" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="HSBC Large Cap Fund Direct Growth" id="369" weight="36.705" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="Kotak ELSS Tax Saver Fund Direct Growth" id="370" weight="32.205" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="371" weight="35.11" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="372" weight="30.985" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="Nippon India Quant Fund Retail Direct Growth" id="373" weight="32.46" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="Tata Large Cap Direct Plan Growth" id="374" weight="31.93" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="UTI Dividend Yield Fund Direct Growth" id="375" weight="28.975" />
+      <edge source="DSP ELSS Tax Saver Fund Direct Plan Growth" target="Bandhan Equity Savings Fund Direct Growth" id="376" weight="25.520000000000003" />
+      <edge source="DSP Equity Opportunities Direct Plan Growth" target="DSP Equity Opportunities Fund Direct Plan Growth" id="377" weight="30.84" />
+      <edge source="DSP Equity Opportunities Direct Plan Growth" target="DSP Large &amp; Mid Cap Fund Direct Plan Growth" id="378" weight="30.84" />
+      <edge source="DSP Equity Opportunities Fund Direct Plan Growth" target="DSP Large &amp; Mid Cap Fund Direct Plan Growth" id="379" weight="30.84" />
+      <edge source="DSP Focus Direct Plan Growth" target="DSP Focused Direct Plan Growth" id="380" weight="47.48" />
+      <edge source="DSP Large Cap Fund Direct Growth" target="DSP Top 100 Equity Direct Plan Growth" id="381" weight="53.82" />
+      <edge source="DSP Large Cap Fund Direct Growth" target="Mirae Asset Banking and Financial Services Fund Direct   Growth" id="382" weight="52.515" />
+      <edge source="DSP Large Cap Fund Direct Growth" target="SBI Long Term Equity Fund Direct Plan Growth" id="383" weight="33.97" />
+      <edge source="DSP Large Cap Fund Direct Growth" target="Taurus Flexi Cap Fund Direct   Growth" id="384" weight="37.325" />
+      <edge source="DSP Large Cap Fund Direct Growth" target="Bandhan Equity Savings Fund Direct Growth" id="385" weight="29.455000000000002" />
+      <edge source="DSP Top 100 Equity Direct Plan Growth" target="Mirae Asset Banking and Financial Services Fund Direct   Growth" id="386" weight="52.515" />
+      <edge source="DSP Top 100 Equity Direct Plan Growth" target="SBI Long Term Equity Fund Direct Plan Growth" id="387" weight="33.97" />
+      <edge source="DSP Top 100 Equity Direct Plan Growth" target="Taurus Flexi Cap Fund Direct   Growth" id="388" weight="37.325" />
+      <edge source="DSP Top 100 Equity Direct Plan Growth" target="Bandhan Equity Savings Fund Direct Growth" id="389" weight="29.455000000000002" />
+      <edge source="Motilal Oswal Nifty Smallcap 250 Index Fund Direct   Growth" target="Nippon India Nifty Smallcap 250 Index Fund Direct   Growth" id="390" weight="11.825" />
+      <edge source="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" target="Kotak Bluechip Fund Direct Growth" id="391" weight="29.979999999999997" />
+      <edge source="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="392" weight="33.995000000000005" />
+      <edge source="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="393" weight="27.625" />
+      <edge source="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" target="Bandhan Equity Savings Fund Direct Growth" id="394" weight="23.005000000000003" />
+      <edge source="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="395" weight="23.185000000000002" />
+      <edge source="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" target="UTI Large Cap Fund Direct Growth" id="396" weight="29.185000000000002" />
+      <edge source="Edelweiss NIFTY Large Mid Cap 250 Index Fund Direct   Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="397" weight="19.625" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="Mirae Asset ELSS Tax Saver Fund Direct Growth" id="398" weight="39.47" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="399" weight="42.995000000000005" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="Nippon India Quant Fund Retail Direct Growth" id="400" weight="40.465" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="UTI Value Fund Direct Growth" id="401" weight="38.53" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="402" weight="29.775000000000002" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="Bandhan Equity Savings Fund Direct Growth" id="403" weight="30.96" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="Bank of India Balanced Advantage Fund Direct Growth" id="404" weight="31.32" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="HSBC ELSS Tax Saver Fund Direct Growth" id="405" weight="29.475" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="HSBC Flexi Cap Fund Direct Growth" id="406" weight="29.505000000000003" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="HSBC Large Cap Fund Direct Growth" id="407" weight="38.47" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="408" weight="31.105" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="Kotak ELSS Tax Saver Fund Direct Growth" id="409" weight="32.85" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="Kotak India EQ Contra Fund Direct Growth" id="410" weight="32.805" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="SBI Long Term Equity Fund Direct Plan Growth" id="411" weight="31.895" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="Tata Large Cap Direct Plan Growth" id="412" weight="34.825" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="Taurus Large Cap Fund Direct Growth" id="413" weight="36.379999999999995" />
+      <edge source="Kotak Bluechip Fund Direct Growth" target="UTI Large Cap Fund Direct Growth" id="414" weight="37.105000000000004" />
+      <edge source="Mirae Asset ELSS Tax Saver Fund Direct Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="415" weight="41.415" />
+      <edge source="Mirae Asset ELSS Tax Saver Fund Direct Growth" target="Nippon India Quant Fund Retail Direct Growth" id="416" weight="33.985" />
+      <edge source="Mirae Asset ELSS Tax Saver Fund Direct Growth" target="SBI Long Term Equity Fund Direct Plan Growth" id="417" weight="30.435" />
+      <edge source="Mirae Asset ELSS Tax Saver Fund Direct Growth" target="Tata Large Cap Direct Plan Growth" id="418" weight="32.685" />
+      <edge source="Mirae Asset ELSS Tax Saver Fund Direct Growth" target="Taurus Large Cap Fund Direct Growth" id="419" weight="34.92" />
+      <edge source="Mirae Asset ELSS Tax Saver Fund Direct Growth" target="UTI Value Fund Direct Growth" id="420" weight="33.17" />
+      <edge source="Mirae Asset ELSS Tax Saver Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="421" weight="24.935000000000002" />
+      <edge source="Mirae Asset ELSS Tax Saver Fund Direct Growth" target="Bandhan Equity Savings Fund Direct Growth" id="422" weight="25.095" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="UTI Large Cap Fund Direct Growth" id="423" weight="36.9" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="424" weight="26.884999999999998" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="Tata Large Cap Direct Plan Growth" id="425" weight="31.71" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="426" weight="23.18" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="Bank of India Balanced Advantage Fund Direct Growth" id="427" weight="23.975" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="Groww ELSS Tax Saver Fund Direct   Growth" id="428" weight="26.740000000000002" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="HSBC Large Cap Fund Direct Growth" id="429" weight="30.94" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="Mahindra Manulife Large Cap Fund Direct   Growth" id="430" weight="31.505000000000003" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="SBI Equity Savings Fund Direct Growth" id="431" weight="25.215" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="Tata Business Cycle Fund Direct   Growth" id="432" weight="24.384999999999998" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="UTI ELSS Tax Saver Fund Direct Growth" id="433" weight="29.48" />
+      <edge source="Bandhan Equity Savings Fund Direct Growth" target="UTI Value Fund Direct Growth" id="434" weight="28.715" />
+      <edge source="Mahindra Manulife Large Cap Fund Direct   Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="435" weight="32.985" />
+      <edge source="Mahindra Manulife Large Cap Fund Direct   Growth" target="HSBC ELSS Tax Saver Fund Direct Growth" id="436" weight="32.685" />
+      <edge source="Mahindra Manulife Large Cap Fund Direct   Growth" target="HSBC Large Cap Fund Direct Growth" id="437" weight="41.98" />
+      <edge source="Mahindra Manulife Large Cap Fund Direct   Growth" target="Kotak ELSS Tax Saver Fund Direct Growth" id="438" weight="36.075" />
+      <edge source="Mahindra Manulife Large Cap Fund Direct   Growth" target="Kotak India EQ Contra Fund Direct Growth" id="439" weight="36.315" />
+      <edge source="Mahindra Manulife Large Cap Fund Direct   Growth" target="Nippon India Quant Fund Retail Direct Growth" id="440" weight="40.44" />
+      <edge source="Mahindra Manulife Large Cap Fund Direct   Growth" target="UTI Value Fund Direct Growth" id="441" weight="39.144999999999996" />
+      <edge source="UTI Large Cap Fund Direct Growth" target="ITI Balanced Advantage Fund Direct   Growth" id="442" weight="35.985" />
+      <edge source="UTI Large Cap Fund Direct Growth" target="UTI ELSS Tax Saver Fund Direct Growth" id="443" weight="42.345" />
+      <edge source="UTI Large Cap Fund Direct Growth" target="HSBC Large Cap Fund Direct Growth" id="444" weight="40.83" />
+      <edge source="UTI Large Cap Fund Direct Growth" target="Tata Large Cap Direct Plan Growth" id="445" weight="37.775" />
+      <edge source="UTI Large Cap Fund Direct Growth" target="UTI Value Fund Direct Growth" id="446" weight="38.385" />
+      <edge source="UTI Large Cap Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="447" weight="29.265" />
+      <edge source="UTI Value Fund Direct Growth" target="HSBC Large Cap Fund Direct Growth" id="448" weight="42.425" />
+      <edge source="UTI Value Fund Direct Growth" target="Kotak India EQ Contra Fund Direct Growth" id="449" weight="35.655" />
+      <edge source="UTI Value Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="450" weight="30.119999999999997" />
+      <edge source="UTI Value Fund Direct Growth" target="HSBC Flexi Cap Fund Direct Growth" id="451" weight="29.015" />
+      <edge source="UTI Value Fund Direct Growth" target="Kotak ELSS Tax Saver Fund Direct Growth" id="452" weight="34.32" />
+      <edge source="UTI Value Fund Direct Growth" target="Kotak Focused Equity Fund Direct   Growth" id="453" weight="36.36" />
+      <edge source="UTI Value Fund Direct Growth" target="Nippon India Quant Fund Retail Direct Growth" id="454" weight="35.815" />
+      <edge source="UTI Value Fund Direct Growth" target="Tata Large Cap Direct Plan Growth" id="455" weight="35.86" />
+      <edge source="UTI Value Fund Direct Growth" target="UTI Dividend Yield Fund Direct Growth" id="456" weight="31.990000000000002" />
+      <edge source="HSBC Large Cap Fund Direct Growth" target="Kotak India EQ Contra Fund Direct Growth" id="457" weight="38.535" />
+      <edge source="HSBC Large Cap Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="458" weight="32.155" />
+      <edge source="HSBC Large Cap Fund Direct Growth" target="Bank of India Balanced Advantage Fund Direct Growth" id="459" weight="32.86" />
+      <edge source="HSBC Large Cap Fund Direct Growth" target="HSBC ELSS Tax Saver Fund Direct Growth" id="460" weight="31.034999999999997" />
+      <edge source="HSBC Large Cap Fund Direct Growth" target="Kotak ELSS Tax Saver Fund Direct Growth" id="461" weight="36.870000000000005" />
+      <edge source="Kotak India EQ Contra Fund Direct Growth" target="Kotak ELSS Tax Saver Fund Direct Growth" id="462" weight="34.03" />
+      <edge source="Kotak India EQ Contra Fund Direct Growth" target="Kotak Debt Hybrid Fund Direct  Growth" id="463" weight="18.46" />
+      <edge source="Kotak India EQ Contra Fund Direct Growth" target="Kotak Focused Equity Fund Direct   Growth" id="464" weight="34.305" />
+      <edge source="Kotak India EQ Contra Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="465" weight="24.65" />
+      <edge source="ITI Balanced Advantage Fund Direct   Growth" target="Tata Large Cap Direct Plan Growth" id="466" weight="29.595" />
+      <edge source="ITI Balanced Advantage Fund Direct   Growth" target="UTI ELSS Tax Saver Fund Direct Growth" id="467" weight="32.965" />
+      <edge source="Nippon India Quant Fund Retail Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="468" weight="31.125" />
+      <edge source="Nippon India Quant Fund Retail Direct Growth" target="HDFC Equity Savings Direct Plan Growth" id="469" weight="33.755" />
+      <edge source="Nippon India Quant Fund Retail Direct Growth" target="HSBC ELSS Tax Saver Fund Direct Growth" id="470" weight="30.825" />
+      <edge source="Nippon India Quant Fund Retail Direct Growth" target="HSBC Flexi Cap Fund Direct Growth" id="471" weight="30.43" />
+      <edge source="Nippon India Quant Fund Retail Direct Growth" target="Kotak Equity Opportunities Fund Direct Growth" id="472" weight="30.515" />
+      <edge source="Nippon India Quant Fund Retail Direct Growth" target="Kotak Focused Equity Fund Direct   Growth" id="473" weight="37.519999999999996" />
+      <edge source="Nippon India Quant Fund Retail Direct Growth" target="Tata Large Cap Direct Plan Growth" id="474" weight="34.695" />
+      <edge source="Kotak ELSS Tax Saver Fund Direct Growth" target="Kotak Debt Hybrid Fund Direct  Growth" id="475" weight="20.405" />
+      <edge source="Kotak ELSS Tax Saver Fund Direct Growth" target="Kotak ESG Exclusionary Strategy Fund Direct   Growth" id="476" weight="35.94" />
+      <edge source="Kotak ELSS Tax Saver Fund Direct Growth" target="Axis Multi Asset Allocation Direct Plan  Growth" id="477" weight="24.520000000000003" />
+      <edge source="UTI ELSS Tax Saver Fund Direct Growth" target="360 ONE Focused Equity Fund Direct Growth" id="478" weight="35.49" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="HSBC ELSS Tax Saver Fund Direct Growth" id="479" weight="23.37" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="Bank of India Balanced Advantage Fund Direct Growth" id="480" weight="23.59" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="Groww ELSS Tax Saver Fund Direct   Growth" id="481" weight="25.485" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="HDFC Equity Savings Direct Plan Growth" id="482" weight="24.424999999999997" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="HSBC Flexi Cap Fund Direct Growth" id="483" weight="21.86" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="Kotak ESG Exclusionary Strategy Fund Direct   Growth" id="484" weight="26.56" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="Kotak Flexicap Fund Direct Growth" id="485" weight="24.134999999999998" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="Kotak Focused Equity Fund Direct   Growth" id="486" weight="27.765" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="Quantum ELSS Tax Saver Fund Direct Growth" id="487" weight="26.46" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="SBI Equity Savings Fund Direct Growth" id="488" weight="24.205" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="Tata Large Cap Direct Plan Growth" id="489" weight="27.265" />
+      <edge source="Axis Multi Asset Allocation Direct Plan  Growth" target="UTI Infrastructure Fund Direct Growth" id="490" weight="28.175000000000004" />
+      <edge source="HSBC ELSS Tax Saver Fund Direct Growth" target="Bank of India Balanced Advantage Fund Direct Growth" id="491" weight="24.845" />
+      <edge source="HSBC ELSS Tax Saver Fund Direct Growth" target="HSBC Flexi Cap Fund Direct Growth" id="492" weight="23.009999999999998" />
+      <edge source="HSBC ELSS Tax Saver Fund Direct Growth" target="Kotak Focused Equity Fund Direct   Growth" id="493" weight="30.255000000000003" />
+      <edge source="Bank of India ELSS Tax Saver Direct Growth" target="Bank of India Flexi Cap Fund Direct Growth" id="494" weight="28.09" />
+      <edge source="SBI Long Term Equity Fund Direct Plan Growth" target="Taurus Large Cap Fund Direct Growth" id="495" weight="34.455" />
+      <edge source="Groww ELSS Tax Saver Fund Direct   Growth" target="Groww Large Cap Fund Direct Growth" id="496" weight="36.445" />
+      <edge source="HSBC Flexi Cap Fund Direct Growth" target="Kotak Focused Equity Fund Direct   Growth" id="497" weight="30.895" />
+      <edge source="Kotak Focused Equity Fund Direct   Growth" target="Kotak Debt Hybrid Fund Direct  Growth" id="498" weight="23.09" />
+      <edge source="Kotak Equity Opportunities Fund Direct Growth" target="Kotak Flexicap Fund Direct Growth" id="499" weight="29.96" />
+    </edges>
+  </graph>
+</gexf>
